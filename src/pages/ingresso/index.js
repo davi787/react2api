@@ -39,7 +39,7 @@ export default function Index() {
                 </div>
 
                 <div>
-                    <button onClick={calcular}> Calcular valor</button>
+                    <button  onClick={calcular}> Calcular valor</button>
                 </div>
 
                 <div> 
